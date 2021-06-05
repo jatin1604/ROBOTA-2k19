@@ -28,4 +28,4 @@ Design a Semi-Autonomous robot which could retrieve the stone by following a def
 ## *ARENA FOR EVENT*
 ![](images/RobotaArena.jpeg)
 
-## Code for mobility of robot is written through Arduino and its file is mentioned above [robota.ino](/robota.ino) 
+#### Code for mobility of robot is written through Arduino and its file is mentioned above [robota.ino](/robota.ino) 
